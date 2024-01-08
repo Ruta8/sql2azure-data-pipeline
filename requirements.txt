@@ -1,0 +1,23 @@
+# Core libraries
+pandas
+numpy
+
+# SQL Database connection
+pyodbc
+SQLAlchemy
+
+# Apache Spark for distributed computing (if using)
+pyspark
+
+# Google Cloud libraries
+google-cloud-storage
+
+# Unit testing
+pytest
+
+# For environment variables management
+python-dotenv
+
+# Additional libraries (if needed)
+# requests
+# scipy
